@@ -1,0 +1,5 @@
+@10
+D=A
+INVALID
+@0
+M=D
